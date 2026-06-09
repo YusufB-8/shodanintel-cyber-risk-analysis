@@ -43,27 +43,7 @@ A Python-based cyber threat intelligence project that collects, analyzes and vis
 └── README.md
 ```
 
----
 
-## Dashboard Preview
-
-### Main Dashboard
-
-<img src="images/dashboard.png" width="900">
-
-### Risk Analysis
-
-<img src="images/risk.png" width="900">
-
-### Turkey Risk Analysis
-
-<img src="images/turkey.png" width="900">
-
-### CVE Analysis
-
-<img src="images/cve.png" width="900">
-
----
 
 ## Disclaimer
 
@@ -72,3 +52,12 @@ This project analyzes publicly available exposure statistics obtained through th
 No exploitation, scanning, unauthorized access or offensive actions are performed.
 
 The project is intended solely for cybersecurity research, data analysis and educational purposes.
+
+Python
+Shodan API
+Streamlit
+Scikit-learn
+Plotly
+Pandas
+Cybersecurity
+Threat Intelligence
